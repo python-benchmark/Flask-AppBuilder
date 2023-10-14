@@ -11,3 +11,5 @@ parameterized==0.8.1
 pip-tools==6.2.0
 tox==3.24.3
 freezegun==1.2.1
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
