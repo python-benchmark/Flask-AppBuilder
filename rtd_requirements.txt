@@ -37,7 +37,7 @@ flask-wtf==0.14.3
     # via Flask-AppBuilder (setup.py)
 greenlet==1.1.2
     # via sqlalchemy
-idna==3.3
+idna==3.7
     # via email-validator
 itsdangerous==2.1.1
     # via
